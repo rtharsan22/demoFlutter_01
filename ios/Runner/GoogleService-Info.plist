@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAfNY9Gk7ztt_ndiFEVX1bX_9I6ucLwP5E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>462895082879</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.loginui</string>
+	<key>PROJECT_ID</key>
+	<string>loginui-d023b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loginui-d023b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:462895082879:ios:7930e01473a19caf06be4a</string>
+</dict>
+</plist>
